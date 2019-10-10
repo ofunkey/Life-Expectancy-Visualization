@@ -6,7 +6,7 @@
 This project analysed the correlation between world GDP and Life Expectancy over a 50 years period. It used Matplotlib to plot the life expectancy in various continents and countries. The visualization created provided insights that people in richer countries live longer and the life span is dependent on resource distribution.
 
 
-The data sets includes information from gapminder on ![gapminder](https://www.kaggle.com/codingelements/gapminder). It contains data of life expectancy, population and GDP per capital of differnent countries over several years (1950 -2007). 
+The data sets includes information from gapminder on [gapminder](https://www.kaggle.com/codingelements/gapminder). It contains data of life expectancy, population and GDP per capital of differnent countries over several years (1950 -2007). 
 
 
 
@@ -23,7 +23,7 @@ The data sets includes information from gapminder on ![gapminder](https://www.ka
 4. Plot and compare GDP of EU and Asia in 2007.
    ![Comparing_GDP_of_EU_and_Asia_in_2007](https://github.com/ofunkey/Life-Expectancy-Visualization/blob/master/Life_Expectancy/Images/Comparing_GDP_of_EU_and_Asia_in_2007.png)
 
-5. Plot and compare world life expectancy for every 5 years to show trends.
+5. Plot and compare world life expectancy for every 5 years to show trends (more images on jupyter notebook).
    ![GDP_per_capita_and_life_Expectancy_in_2007](https://github.com/ofunkey/Life-Expectancy-Visualization/blob/master/Life_Expectancy/Images/GDP_per_capita_and_life_Expectancy_in_2007.png)
 
 6. Plot and compare GDP per capital per continent.
